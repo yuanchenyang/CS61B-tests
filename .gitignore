@@ -1,0 +1,18 @@
+# Emacs specific
+*~
+\#*\#
+
+# Java Specific
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
