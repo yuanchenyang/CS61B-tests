@@ -15,7 +15,7 @@ public class hw4TestLockDList {
         l.insertFront(1);
         n = l.front();
         t.expect(true);
-        t.run(n instanceof LockListNode);
+        t.run(n instanceof LockDListNode);
 
         // 2.
         // Locked nodes cannot be removed from a list.
