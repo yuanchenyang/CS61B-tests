@@ -22,6 +22,8 @@ class hw5TestSet {
         s = setFromArray(l);
         t.expect("{  1  2  4  5  6  8  9  10  }");
         t.run(s.toString());
+        t.expect(8);
+        t.run(s.cardinality());
 
         // Test intersection
         t = new Test("Test intersection");
@@ -30,11 +32,15 @@ class hw5TestSet {
         s1.intersect(s2);
         t.expect("{  2  5  7  11  }");
         t.run(s1.toString());
+        t.expect(4);
+        t.run(s1.cardinality());
         s1 = setFromArray(l1);
         s2 = setFromArray(l2);
         s2.intersect(s1);
         t.expect("{  2  5  7  11  }");
         t.run(s2.toString());
+        t.expect(4);
+        t.run(s2.cardinality());
 
         // Test union
         s1 = setFromArray(l1);
@@ -42,10 +48,14 @@ class hw5TestSet {
         s1.union(s2);
         t.expect("{  0  1  2  3  4  5  6  7  9  10  11  20  }");
         t.run(s1.toString());
+        t.expect(12);
+        t.run(s1.cardinality());
         s1 = setFromArray(l1);
         s2 = setFromArray(l2);
         s2.union(s1);
         t.expect("{  0  1  2  3  4  5  6  7  9  10  11  20  }");
         t.run(s2.toString());
+        t.expect(12);
+        t.run(s2.cardinality());
     }
 }
