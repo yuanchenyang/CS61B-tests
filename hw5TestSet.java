@@ -57,5 +57,23 @@ class hw5TestSet {
         t.run(s2.toString());
         t.expect(12);
         t.run(s2.cardinality());
+        
+        // Test union/intersection edge cases
+        s1 = setFromArray(l1);
+        s2 = new Set();
+        s1.union(s2);
+        t.expect("{  1  2  4  5  7  9  11  }");
+        t.run(s1.toString());
+        s1.intersection(s2);
+        t.expect("{  }");
+        t.run(s1.toString());
+        s1 = setFromArray(l1);
+        s2.union(s1);
+        t.expect("{  1  2  4  5  7  9  11  }");
+        t.run(s2.toString());
+        s2 = new Set();
+        s2.intersection(s1);
+        t.expect("{  }");
+        t.run(s2.toString());
     }
 }
