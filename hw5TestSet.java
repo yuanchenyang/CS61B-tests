@@ -14,8 +14,9 @@ class hw5TestSet {
         Test t;
         Set s, s1, s2;
         int[] l = {6, 2, 2, 4, 5, 8, 5, 9, 1, 2, 4, 6, 8, 10};
-        int[] l1 = {1, 2, 4, 5, 7, 9, 11};
+        int[] l1 = {1, 2, 4, 5, 7, 9, 11, 12, 23};
         int[] l2 = {0, 2, 3, 5, 6, 7, 10, 11, 20};
+        int[] l3 = {1, 2, 4, 5, 7, 9, 11};
                         
         // Test inserting elements
         t = new Test("Test insertion");
@@ -43,37 +44,47 @@ class hw5TestSet {
         t.run(s2.cardinality());
 
         // Test union
+        t = new Test("Test union");
         s1 = setFromArray(l1);
         s2 = setFromArray(l2);
         s1.union(s2);
-        t.expect("{  0  1  2  3  4  5  6  7  9  10  11  20  }");
+        t.expect("{  0  1  2  3  4  5  6  7  9  10  11  12  20  23  }");
         t.run(s1.toString());
-        t.expect(12);
+        t.expect(14);
         t.run(s1.cardinality());
         s1 = setFromArray(l1);
         s2 = setFromArray(l2);
         s2.union(s1);
-        t.expect("{  0  1  2  3  4  5  6  7  9  10  11  20  }");
+        t.expect("{  0  1  2  3  4  5  6  7  9  10  11  12  20  23  }");
         t.run(s2.toString());
-        t.expect(12);
+        t.expect(14);
         t.run(s2.cardinality());
         
         // Test union/intersection edge cases
-        s1 = setFromArray(l1);
+        s1 = setFromArray(l3);
         s2 = new Set();
+        t = new Test("Test edge cases");
         s1.union(s2);
         t.expect("{  1  2  4  5  7  9  11  }");
         t.run(s1.toString());
-        s1.intersection(s2);
+        t.expect(7);
+        t.run(s1.cardinality());
+        s1.intersect(s2);
         t.expect("{  }");
         t.run(s1.toString());
-        s1 = setFromArray(l1);
+        t.expect(0);
+        t.run(s1.cardinality());
+        s1 = setFromArray(l3);
         s2.union(s1);
         t.expect("{  1  2  4  5  7  9  11  }");
         t.run(s2.toString());
+        t.expect(7);
+        t.run(s2.cardinality());
         s2 = new Set();
-        s2.intersection(s1);
+        s2.intersect(s1);
         t.expect("{  }");
         t.run(s2.toString());
+        t.expect(0);
+        t.run(s2.cardinality());
     }
 }
