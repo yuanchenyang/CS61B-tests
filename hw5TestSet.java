@@ -64,7 +64,7 @@ class hw5TestSet {
         s1.union(s2);
         t.expect("{  1  2  4  5  7  9  11  }");
         t.run(s1.toString());
-        s1.intersection(s2);
+        s1.intersect(s2);
         t.expect("{  }");
         t.run(s1.toString());
         s1 = setFromArray(l1);
@@ -72,7 +72,7 @@ class hw5TestSet {
         t.expect("{  1  2  4  5  7  9  11  }");
         t.run(s2.toString());
         s2 = new Set();
-        s2.intersection(s1);
+        s2.intersect(s1);
         t.expect("{  }");
         t.run(s2.toString());
     }
