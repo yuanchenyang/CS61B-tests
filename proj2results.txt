@@ -35744,8 +35744,6 @@ RandomPlayer makes a move: [step from 75 to 03]
 Second RandomPlayer makes a move: [step from 33 to 24]
 >>>> Second RandomPlayer <<<< WINS!
 
->>>> RandomPlayer <<<< WINS!
-
 RandomPlayer is WHITE
 Second RandomPlayer is BLACK
 RandomPlayer makes a move: [add to 14]
@@ -35766,4 +35764,3 @@ RandomPlayer makes a move: [add to 33]
 Second RandomPlayer makes a move: [add to 63]
 RandomPlayer makes a move: [add to 72]
 >>>> RandomPlayer <<<< WINS!
-
