@@ -652,8 +652,6 @@ Second RandomPlayer makes a move: [step from 16 to 45]
 RandomPlayer makes a move: [step from 44 to 63]
 >>>> Second RandomPlayer <<<< WINS!
 
->>>> RandomPlayer <<<< WINS!
-
 RandomPlayer is WHITE
 Second RandomPlayer is BLACK
 RandomPlayer makes a move: [add to 65]
@@ -4873,8 +4871,6 @@ Second RandomPlayer makes a move: [step from 55 to 37]
 RandomPlayer makes a move: [step from 23 to 76]
 >>>> Second RandomPlayer <<<< WINS!
 
->>>> RandomPlayer <<<< WINS!
-
 RandomPlayer is WHITE
 Second RandomPlayer is BLACK
 RandomPlayer makes a move: [add to 25]
@@ -6331,8 +6327,6 @@ RandomPlayer makes a move: [step from 14 to 64]
 Second RandomPlayer makes a move: [step from 23 to 14]
 RandomPlayer makes a move: [step from 35 to 05]
 Second RandomPlayer makes a move: [step from 14 to 54]
->>>> Second RandomPlayer <<<< WINS!
-
 >>>> RandomPlayer <<<< WINS!
 
 RandomPlayer is WHITE
@@ -7584,8 +7578,6 @@ RandomPlayer makes a move: [step from 06 to 76]
 Second RandomPlayer makes a move: [step from 34 to 64]
 RandomPlayer makes a move: [step from 76 to 65]
 Second RandomPlayer makes a move: [step from 64 to 63]
->>>> Second RandomPlayer <<<< WINS!
-
 >>>> RandomPlayer <<<< WINS!
 
 RandomPlayer is WHITE
@@ -7949,8 +7941,6 @@ RandomPlayer makes a move: [step from 71 to 76]
 Second RandomPlayer makes a move: [step from 11 to 32]
 RandomPlayer makes a move: [step from 62 to 01]
 Second RandomPlayer makes a move: [step from 24 to 46]
->>>> Second RandomPlayer <<<< WINS!
-
 >>>> RandomPlayer <<<< WINS!
 
 RandomPlayer is WHITE
@@ -9451,8 +9441,6 @@ RandomPlayer makes a move: [step from 24 to 05]
 Second RandomPlayer makes a move: [step from 67 to 64]
 RandomPlayer makes a move: [step from 34 to 35]
 >>>> Second RandomPlayer <<<< WINS!
-
->>>> RandomPlayer <<<< WINS!
 
 RandomPlayer is WHITE
 Second RandomPlayer is BLACK
@@ -14584,8 +14572,6 @@ RandomPlayer makes a move: [step from 24 to 22]
 Second RandomPlayer makes a move: [step from 15 to 11]
 RandomPlayer makes a move: [step from 22 to 26]
 Second RandomPlayer makes a move: [step from 23 to 30]
->>>> Second RandomPlayer <<<< WINS!
-
 >>>> RandomPlayer <<<< WINS!
 
 RandomPlayer is WHITE
@@ -14951,8 +14937,6 @@ RandomPlayer makes a move: [step from 21 to 05]
 Second RandomPlayer makes a move: [step from 44 to 30]
 RandomPlayer makes a move: [step from 75 to 21]
 Second RandomPlayer makes a move: [step from 31 to 53]
->>>> Second RandomPlayer <<<< WINS!
-
 >>>> RandomPlayer <<<< WINS!
 
 RandomPlayer is WHITE
@@ -15627,8 +15611,6 @@ Second RandomPlayer makes a move: [step from 67 to 11]
 RandomPlayer makes a move: [step from 55 to 44]
 >>>> Second RandomPlayer <<<< WINS!
 
->>>> RandomPlayer <<<< WINS!
-
 RandomPlayer is WHITE
 Second RandomPlayer is BLACK
 RandomPlayer makes a move: [add to 52]
@@ -15881,8 +15863,6 @@ RandomPlayer makes a move: [step from 25 to 02]
 Second RandomPlayer makes a move: [step from 13 to 47]
 RandomPlayer makes a move: [step from 51 to 43]
 >>>> Second RandomPlayer <<<< WINS!
-
->>>> RandomPlayer <<<< WINS!
 
 RandomPlayer is WHITE
 Second RandomPlayer is BLACK
@@ -21008,8 +20988,6 @@ RandomPlayer makes a move: [step from 36 to 73]
 Second RandomPlayer makes a move: [step from 27 to 34]
 RandomPlayer makes a move: [step from 31 to 16]
 Second RandomPlayer makes a move: [step from 33 to 63]
->>>> Second RandomPlayer <<<< WINS!
-
 >>>> RandomPlayer <<<< WINS!
 
 RandomPlayer is WHITE
@@ -22518,8 +22496,6 @@ RandomPlayer makes a move: [step from 21 to 61]
 Second RandomPlayer makes a move: [step from 35 to 57]
 RandomPlayer makes a move: [step from 36 to 66]
 Second RandomPlayer makes a move: [step from 34 to 36]
->>>> Second RandomPlayer <<<< WINS!
-
 >>>> RandomPlayer <<<< WINS!
 
 RandomPlayer is WHITE
@@ -22731,8 +22707,6 @@ RandomPlayer makes a move: [step from 53 to 66]
 Second RandomPlayer makes a move: [step from 52 to 42]
 RandomPlayer makes a move: [step from 03 to 04]
 Second RandomPlayer makes a move: [step from 42 to 31]
->>>> Second RandomPlayer <<<< WINS!
-
 >>>> RandomPlayer <<<< WINS!
 
 RandomPlayer is WHITE
@@ -22821,8 +22795,6 @@ RandomPlayer makes a move: [step from 11 to 01]
 Second RandomPlayer makes a move: [step from 23 to 53]
 RandomPlayer makes a move: [step from 51 to 36]
 Second RandomPlayer makes a move: [step from 46 to 55]
->>>> Second RandomPlayer <<<< WINS!
-
 >>>> RandomPlayer <<<< WINS!
 
 RandomPlayer is WHITE
@@ -29594,8 +29566,6 @@ RandomPlayer makes a move: [step from 63 to 76]
 Second RandomPlayer makes a move: [step from 46 to 23]
 RandomPlayer makes a move: [step from 33 to 21]
 Second RandomPlayer makes a move: [step from 23 to 43]
->>>> Second RandomPlayer <<<< WINS!
-
 >>>> RandomPlayer <<<< WINS!
 
 RandomPlayer is WHITE
@@ -31849,8 +31819,6 @@ RandomPlayer makes a move: [step from 44 to 61]
 Second RandomPlayer makes a move: [step from 14 to 63]
 RandomPlayer makes a move: [step from 31 to 34]
 Second RandomPlayer makes a move: [step from 63 to 15]
->>>> Second RandomPlayer <<<< WINS!
-
 >>>> RandomPlayer <<<< WINS!
 
 RandomPlayer is WHITE
@@ -32269,8 +32237,6 @@ RandomPlayer makes a move: [step from 22 to 01]
 Second RandomPlayer makes a move: [step from 66 to 26]
 RandomPlayer makes a move: [step from 34 to 54]
 Second RandomPlayer makes a move: [step from 44 to 57]
->>>> Second RandomPlayer <<<< WINS!
-
 >>>> RandomPlayer <<<< WINS!
 
 RandomPlayer is WHITE
@@ -33009,8 +32975,6 @@ RandomPlayer makes a move: [step from 03 to 11]
 Second RandomPlayer makes a move: [step from 15 to 37]
 RandomPlayer makes a move: [step from 24 to 44]
 Second RandomPlayer makes a move: [step from 62 to 45]
->>>> Second RandomPlayer <<<< WINS!
-
 >>>> RandomPlayer <<<< WINS!
 
 RandomPlayer is WHITE
@@ -33769,8 +33733,6 @@ RandomPlayer makes a move: [step from 23 to 31]
 Second RandomPlayer makes a move: [step from 11 to 33]
 RandomPlayer makes a move: [step from 46 to 66]
 Second RandomPlayer makes a move: [step from 53 to 13]
->>>> Second RandomPlayer <<<< WINS!
-
 >>>> RandomPlayer <<<< WINS!
 
 RandomPlayer is WHITE
@@ -33995,8 +33957,6 @@ RandomPlayer makes a move: [step from 13 to 31]
 Second RandomPlayer makes a move: [step from 27 to 57]
 RandomPlayer makes a move: [step from 65 to 52]
 Second RandomPlayer makes a move: [step from 12 to 14]
->>>> Second RandomPlayer <<<< WINS!
-
 >>>> RandomPlayer <<<< WINS!
 
 RandomPlayer is WHITE
@@ -35688,7 +35648,7 @@ RandomPlayer makes a move: [step from 32 to 05]
 Second RandomPlayer makes a move: [step from 47 to 46]
 RandomPlayer makes a move: [step from 75 to 03]
 Second RandomPlayer makes a move: [step from 33 to 24]
->>>> Second RandomPlayer <<<< WINS!
+>>>> RandomPlayer <<<< WINS!
 
 RandomPlayer is WHITE
 Second RandomPlayer is BLACK
@@ -35710,6 +35670,7 @@ RandomPlayer makes a move: [add to 33]
 Second RandomPlayer makes a move: [add to 63]
 RandomPlayer makes a move: [add to 72]
 >>>> RandomPlayer <<<< WINS!
+
 RandomPlayer is WHITE
 Second RandomPlayer is BLACK
 RandomPlayer makes a move: [add to 76]
